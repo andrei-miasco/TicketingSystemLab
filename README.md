@@ -42,6 +42,20 @@ Add an internal note for confirmation and documentation on process:  <br/>
 <br />
 Click 'close' to close the ticket. 
 <img src="https://imgur.com/U2sjS3y.png" height="80%" width="80%" alt=/>
+<br />
+<br />
+Create one more ticket, again filling in any information you would like for this lab.
+<img src="https://imgur.com/P15RVLB.png" height="80%" width="80%" alt=/>
+<br />
+<br />
+Assign the ticket to appropriate department that will be able to resolve the ticket. 
+<img src="https://imgur.com/1p3IdS7.png" height="80%" width="80%" alt=/>
+<br />
+<br />
+Notify the department or support that you are escalating a ticket, and provide details on what the user is requesting plus any other additional relevant information.
+<img src="https://imgur.com/zx6eLYA.png" height="80%" width="80%" alt=/>
+<br />
+<br />
 </p>
 
 <!--
