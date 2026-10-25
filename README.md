@@ -12,20 +12,20 @@ In this lab we will be using Spiceworks to simulate the following: How to create
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt=/>
+Launch SpiceWorks in your browser and create a new ticket: <br/>
+<img src="https://imgur.com/kIb66fi.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt=/>
+Provide organization name, contact, and a brief summary of overall issue:  <br/>
+<img src="https://imgur.com/0nb1PTP.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt=/>
+Provide a description of situation, assign priority level appropriate for the ticket, and set category: <br/>
+<img src="https://imgur.com/Fkw7FEQ.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt=/>
+Create the ticket and open ticket on dashboard:  <br/>
+<img src="https://imgur.com/7tFyjOy.png" height="80%" width="80%" alt=/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
