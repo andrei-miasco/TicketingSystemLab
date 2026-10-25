@@ -28,16 +28,20 @@ Create the ticket and open ticket on dashboard:  <br/>
 <img src="https://imgur.com/7tFyjOy.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt=/>
+Create a brand new ticket using the same process as above:  <br/>
+<img src="https://imgur.com/tqWmF4n.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt=/>
+After resolving the issue, you must confirm with the user that the issue has indeed been fixed:  <br/>
+<img src="https://imgur.com/wuoy02E.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt=/>
+Add an internal note for confirmation and documentation on process:  <br/>
+<img src="https://imgur.com/I0GNLo5.png" height="80%" width="80%" alt=/>
+<br />
+<br />
+Click 'close' to close the ticket. 
+<img src="https://imgur.com/U2sjS3y.png" height="80%" width="80%" alt=/>
 </p>
 
 <!--
